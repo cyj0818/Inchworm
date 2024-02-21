@@ -1,0 +1,35 @@
+[0.635s] Invoking command in '/home/choiyujiin/Desktop/rostwo_ws/build/dynamixel_workbench_operators': /usr/bin/cmake /home/choiyujiin/Desktop/rostwo_ws/src/dynamixel-workbench/dynamixel_workbench_operators -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/choiyujiin/Desktop/rostwo_ws/install/dynamixel_workbench_operators
+[0.688s] -- The C compiler identification is GNU 9.4.0
+[0.747s] -- The CXX compiler identification is GNU 9.4.0
+[0.753s] -- Check for working C compiler: /usr/bin/cc
+[0.820s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.821s] -- Detecting C compiler ABI info
+[0.877s] -- Detecting C compiler ABI info - done
+[0.888s] -- Detecting C compile features
+[0.889s] -- Detecting C compile features - done
+[0.892s] -- Check for working CXX compiler: /usr/bin/c++
+[0.951s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.953s] -- Detecting CXX compiler ABI info
+[1.012s] -- Detecting CXX compiler ABI info - done
+[1.027s] -- Detecting CXX compile features
+[1.027s] -- Detecting CXX compile features - done
+[1.039s] CMake Error at CMakeLists.txt:13 (find_package):
+[1.039s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[1.039s]   asked CMake to find a package configuration file provided by "catkin", but
+[1.039s]   CMake did not find one.
+[1.040s] 
+[1.040s]   Could not find a package configuration file provided by "catkin" with any
+[1.040s]   of the following names:
+[1.040s] 
+[1.040s]     catkinConfig.cmake
+[1.040s]     catkin-config.cmake
+[1.040s] 
+[1.040s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[1.040s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[1.040s]   provides a separate development package or SDK, be sure it has been
+[1.040s]   installed.
+[1.040s] 
+[1.040s] 
+[1.040s] -- Configuring incomplete, errors occurred!
+[1.040s] See also "/home/choiyujiin/Desktop/rostwo_ws/build/dynamixel_workbench_operators/CMakeFiles/CMakeOutput.log".
+[1.379s] Invoked command in '/home/choiyujiin/Desktop/rostwo_ws/build/dynamixel_workbench_operators' returned '1': /usr/bin/cmake /home/choiyujiin/Desktop/rostwo_ws/src/dynamixel-workbench/dynamixel_workbench_operators -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/choiyujiin/Desktop/rostwo_ws/install/dynamixel_workbench_operators

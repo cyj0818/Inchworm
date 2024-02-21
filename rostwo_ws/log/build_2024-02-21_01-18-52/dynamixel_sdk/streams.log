@@ -1,0 +1,35 @@
+[1.248s] Invoking command in '/home/choiyujiin/Desktop/rostwo_ws/build/dynamixel_sdk': /usr/bin/cmake /home/choiyujiin/Desktop/rostwo_ws/src/DynamixelSDK/ros/dynamixel_sdk -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/choiyujiin/Desktop/rostwo_ws/install/dynamixel_sdk
+[1.302s] -- The C compiler identification is GNU 9.4.0
+[1.364s] -- The CXX compiler identification is GNU 9.4.0
+[1.369s] -- Check for working C compiler: /usr/bin/cc
+[1.433s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.434s] -- Detecting C compiler ABI info
+[1.494s] -- Detecting C compiler ABI info - done
+[1.505s] -- Detecting C compile features
+[1.505s] -- Detecting C compile features - done
+[1.509s] -- Check for working CXX compiler: /usr/bin/c++
+[1.570s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.571s] -- Detecting CXX compiler ABI info
+[1.631s] -- Detecting CXX compiler ABI info - done
+[1.642s] -- Detecting CXX compile features
+[1.642s] -- Detecting CXX compile features - done
+[1.656s] CMake Error at CMakeLists.txt:13 (find_package):
+[1.656s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[1.656s]   asked CMake to find a package configuration file provided by "catkin", but
+[1.656s]   CMake did not find one.
+[1.656s] 
+[1.656s]   Could not find a package configuration file provided by "catkin" with any
+[1.656s]   of the following names:
+[1.656s] 
+[1.656s]     catkinConfig.cmake
+[1.656s]     catkin-config.cmake
+[1.656s] 
+[1.656s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[1.656s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[1.656s]   provides a separate development package or SDK, be sure it has been
+[1.656s]   installed.
+[1.656s] 
+[1.657s] 
+[1.658s] -- Configuring incomplete, errors occurred!
+[1.658s] See also "/home/choiyujiin/Desktop/rostwo_ws/build/dynamixel_sdk/CMakeFiles/CMakeOutput.log".
+[2.004s] Invoked command in '/home/choiyujiin/Desktop/rostwo_ws/build/dynamixel_sdk' returned '1': /usr/bin/cmake /home/choiyujiin/Desktop/rostwo_ws/src/DynamixelSDK/ros/dynamixel_sdk -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/choiyujiin/Desktop/rostwo_ws/install/dynamixel_sdk
